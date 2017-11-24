@@ -1,1 +1,1 @@
-# resources
+# Main website: http://paleorxiv.org/
